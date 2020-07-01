@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Eren",
+        "price": 89,
+        "picture": "/images/eren.jpg",
+        "service": ["React", "Bootstrap", "Javascript"],
+        "quals" : ["Certificate in Web Development", "Diploma in Media Studies", "Diploma in Instructing Media Studies"],
+        "about" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+        "id": 2,
+        "name": "Gandalf",
+        "price": 49,
+        "picture": "/images/gandalf.jpg",
+        "service": ["Fireworks Shows", "Magic", "Troll Cleaner"],
+        "quals" : ["Certificate in Middle World", "Diploma in Magic", "Diploma in Instructing Magic"],
+        "about" : "Lorem ipsum dolor sit amet, sed luptatum recusabo torquatos at, an cum illum nusquam deleniti, et senserit pericula sit. Te etiam habemus eos, ei pri wisi laudem, no fastidii tractatos sit. Et usu vocibus epicuri disputando, expetenda molestiae dissentias vel et, alia laboramus cu est. Id vidit movet pro."
+    },
+    {
+        "id": 3,
+        "name": "Frodo",
+        "price": 175,
+        "picture": "/images/frodo.jpg",
+        "service": ["Precious Ring Carrier", "Hobbit", "Badass"],
+        "quals" : ["Certificate in Fitness Instructing", "Diploma in Health, Fitness, and Exercise Instruction", "Diploma in Instructing Exercise and Fitness"],
+        "about" : "At molestie quaestio suscipiantur usu, in alii discere eam. Ut vel delenit scripserit. Probo maluisset an eam, vim mentitum elaboraret ex. Nam mutat reque doming te, esse oratio reprimique eos ne, cu legimus insolens sit. Id nibh omnium pro. Soleat expetendis efficiendi cum ad."
+    },
+    {
+        "id": 4,
+        "name": "Samwise",
+        "price": 10,
+        "picture": "/images/sam.jpg",
+        "service": ["Best Friend", "Stouthearted", "Friend Trainer"],
+        "quals" : ["Certificate in Fitness Instructing", "Diploma in Health, Fitness, and Exercise Instruction", "Diploma in Instructing Exercise and Fitness"],
+        "about": "Graeco tamquam consulatu ex sit, ubique gubergren id vix. Vel in amet porro sanctus, novum labores vituperata ad pri. His wisi tincidunt conceptam no, aeterno offendit sed ea, ad ius saperet corpora comprehensam. Aliquam fuisset sensibus an mei, ea nec molestie temporibus, cu ius utinam nemore intellegam."
+    },
+    {
+        "id": 5,
+        "name": "Harry",
+        "price": 30,
+        "picture": "/images/harry.jpg",
+        "service": ["Hogwart's Secret Ways", "Voldemort Killer", "Spoiled"],
+        "quals" : ["Certificate in Magic", "Diploma at Hogwarts", "Diploma in Pink Magics"],
+        "about": "Has ut errem invenire aliquando, commune scripserit vel et, quis lobortis his an. Eam eu nonumy appellantur complectitur. Sit ne paulo deserunt constituto, no vis lorem inciderint, eos ad justo doming. Ea vim utamur laboramus democritum, eu sea quot possim dissentias."
+    } 
+]
